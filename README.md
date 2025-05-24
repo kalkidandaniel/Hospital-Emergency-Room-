@@ -1,4 +1,6 @@
 # Hospital-Emergency-Room Analysis
+## 🚀 Tools: SQL · Excel · Power BI
+
 ## Project Background
 Hospitals face ongoing challenges in managing emergency room (ER) performance, where high patient volumes, long wait times, and uneven resource allocation can lead to poor patient outcomes. This project was initiated to help hospital administrators and clinical leads monitor, evaluate, and optimize ER operations through a Power BI dashboard. The goal is to turn raw patient-level data into actionable insights that can drive timely, data-informed decisions across departments.
 
